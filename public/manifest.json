@@ -1,6 +1,6 @@
 {
-	"short_name": "Journal App",
-	"name": "Journal App",
+	"short_name": "Base App",
+	"name": "Base App",
 	"icons": [],
 	"start_url": ".",
 	"display": "standalone",
